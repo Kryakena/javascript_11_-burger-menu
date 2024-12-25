@@ -1,7 +1,16 @@
-# Бургер-меню
+# 🍔 Бургер-меню 🍔
 
 Источник: видео "Правильное адаптивное меню бургер на HTML CSS и jQuery. Мобильное меню туториал // Как это сделать?" 
 https://vk.com/im/convo/19460369?entrypoint=list_all&z=video-125918837_456239140%2Fdf0522be9aedf3adbc
+
+![2024-12-25_20-05-48](https://github.com/user-attachments/assets/742e38d6-b439-4951-b278-61677b5f36bf) ![2024-12-25_20-06-15](https://github.com/user-attachments/assets/deba3b5a-c344-4858-ae8f-9ded40559a89)
+![2024-12-25_20-06-36](https://github.com/user-attachments/assets/77d0a44c-83a5-422c-b892-2270f8208e63)
+
+
+
+https://github.com/user-attachments/assets/efdb0da0-227a-48bd-83e5-f22377105ceb
+
+
 
 1. создаем создаем файлы index.html, style.css, script.js в папке проекта
 
@@ -662,6 +671,12 @@ html,body{
 }
 ```
 
+![2024-12-25_19-59-11](https://github.com/user-attachments/assets/dc568ae7-1646-471d-9f00-99990b299759)
+![2024-12-25_19-59-31](https://github.com/user-attachments/assets/ed23c864-f617-4acd-bd9d-f927ab3278c9)
+![2024-12-25_19-59-47](https://github.com/user-attachments/assets/136f3654-2ba6-4d47-a4eb-66d8aaf579a6)
+![2024-12-25_20-00-06](https://github.com/user-attachments/assets/24aa8646-9755-4139-99b5-3b3596803382)
+
+
 2. в файле script.js
 
 ```js
@@ -675,6 +690,9 @@ $(document).ready(function () { //нам нужно, чтобы при нажа�
     });
 });
 ```
+
+![2024-12-25_20-00-26](https://github.com/user-attachments/assets/f74183d2-cd6e-45af-be46-c8de28b247cd)
+
 
 3. в файле index.html
 
@@ -769,3 +787,7 @@ $(document).ready(function () { //нам нужно, чтобы при нажа�
 </body>
 </html>
 ```
+
+![2024-12-25_20-00-47](https://github.com/user-attachments/assets/cff6850a-292a-48a5-9819-f3a3030b0d87)
+![2024-12-25_20-01-08](https://github.com/user-attachments/assets/c8b9c03e-de45-4594-98d0-df09b271200f)
+
